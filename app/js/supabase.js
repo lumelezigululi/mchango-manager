@@ -8,8 +8,8 @@
 
 // Badilisha hizi mbili na za project YAKO:
 // Supabase → Settings → API → Project URL na anon public key
-const SUPABASE_URL = "https://ckohwqsfirxiwawuefks.supabase.co";
-const SUPABASE_ANON_KEY = "sb_publishable_uzlYCDgPhbZxloexNR4y8g_eiiiYIPS";
+const SUPABASE_URL = "https://wiifvpdczqymyanhezqi.supabase.co";
+const SUPABASE_ANON_KEY = "sb_publishable_ZimKDgsMxFZcj53gTVOlvg_j9Ynv_0u";
 
 // Tunaunda "client" — ndiye atakayeongea na database kwa niaba yetu
 const db = supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
